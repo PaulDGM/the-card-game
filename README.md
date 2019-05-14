@@ -33,6 +33,7 @@ npm install
 ```
 
 ### Compiles and hot-reloads for development
+To run the development code use this:
 ```
 npm run serve
 ```
