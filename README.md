@@ -16,12 +16,12 @@ The project is basically build with Vue.js and Bootstrap 4. In addition HTML, CS
 
 ## Run project
 
-To run the productiv part you have to open the terminal and enter:
+To run the productive part you have to open the terminal and enter:
 ```
 $npm install -g serve
 ```
 
-to ensure that serve is installed and then: 
+to ensure that serve is installed and then enter: 
 ```
 $serve -s dist
 ```
