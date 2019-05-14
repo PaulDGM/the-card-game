@@ -3,7 +3,7 @@
 
 ## Project structure
 
-The project is structure in 3 main parts:
+The project is structured in 3 main parts:
 * Cards (where the data is loaded)
 * Details
 * Controls
@@ -12,7 +12,7 @@ In App.vue all files are combined together to show up in the index.html in a run
 
 ## Used language
 
-The project is basically build with vue.js and Bootstrap 4. In addition there were css, html, javascript and some additional for using Bootstrap 4 and vue.js. 
+The project is basically build with Vue.js and Bootstrap 4. In addition HTML, CSS, Javascript and some additional Javascript frameworks like NodeJS and the Javascript library jQuery for using Bootstrap 4 and Vue.js were used. 
 
 ## Run project
 
