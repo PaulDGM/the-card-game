@@ -8,7 +8,7 @@ The project is structured in 3 main parts:
 * Details
 * Controls
 
-In App.vue all files are combined together to show up in the index.html in a running porject.
+In App.vue all files are combined together to show up in the index.html in a running project.
 
 ## Used language
 
